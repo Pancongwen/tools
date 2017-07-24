@@ -24,5 +24,4 @@ case "$1" in
 	*)
 		echo " Usage: sudo $0 add USERNAME "
 		exit 1
-
-
+esac
